@@ -80,17 +80,23 @@
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9ems;
-    min-width: 400'x;
+    min-width: 400px;
+    background-color: #20a9e5;
+    color: white;
+    
 }
 
-.testa{
-    background-color: #4ea0ff;
-}
 
 .pari{
-    background-color: #36b1e7;
+    background-color: #b1e5f2;
+    color: black;
+    text-align:left;
 }
 
+.dispari{
+    background-color:white ;
+    color: black;
+}
 .final{
     margin-top: 20px;
     color: #828282;
