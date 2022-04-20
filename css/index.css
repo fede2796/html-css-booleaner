@@ -75,29 +75,20 @@
     font-weight: bold;
 }
 
-.table{
-   
+.content-table{
     margin-top: 20px;
-   
-
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9ems;
+    min-width: 400'x;
 }
-.colonne{
-   
-    background-color: #20a9e5 ;
-    color: #ffffff ;
-    
+
+.testa{
+    background-color: #4ea0ff;
 }
 
 .pari{
-    background-color: #b1e5f2 ;
-    
-   
-   
-}
-
-.dispari{
-    background-color: #ffffff ;
-    color: black;
+    background-color: #36b1e7;
 }
 
 .final{
