@@ -67,8 +67,23 @@
 
 .list{
     margin-top: 20px;
-    margin-left: 28px;
+    margin-left: 20px;
     font-size: 18px;
     font-weight: bold;
 }
 
+.colonne{
+    margin-top: 20px;
+    background-color: #20a9e5 ;
+    color: #ffffff ;
+    
+}
+
+.pari{
+    background-color: #b1e5f2 ;
+}
+
+.dispari{
+    background-color: #ffffff ;
+    color: black;
+}
